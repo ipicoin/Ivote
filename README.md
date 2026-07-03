@@ -6,6 +6,10 @@
 
 This is a Cosmos App project bootstrapped with [`create-cosmos-app`](https://github.com/hyperweb-io/create-cosmos-app).
 
+## Ivote — governance DAO IPI
+
+Ivote to dApp do głosowania on-chain dla IPI DAO (interfejs modułu `x/gov` Cosmos SDK). Definicja produktu, zakres, user stories i model danych: [**docs/PRD.md**](./docs/PRD.md).
+
 ## Getting Started
 
 First, install the packages and run the development server:
