@@ -1,7 +1,7 @@
 # IPI Vote
 
-An experimental Cosmos governance interface used to evaluate wallet
-connection, proposal display, and voting flows for IPI-compatible networks.
+A Cosmos governance interface for evaluating wallet connection, proposal
+display, and voting flows for IPI-compatible networks.
 
 > **Status: inherited prototype.** This application is not the canonical IPI
 > governance system, has not been audited, and must not be used to make or
